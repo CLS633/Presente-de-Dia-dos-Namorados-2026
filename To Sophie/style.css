@@ -1,0 +1,35 @@
+
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+.hearth {
+    width: 200px;
+}
+
+body {
+    background-image: url(/assets/background\ pt1.jpeg);
+ 
+}
+
+@media (max-width: 420px) {
+    
+    body {
+    background-size: contain;
+    
+        }
+
+}
+
+* {
+    color: rgb(32, 10, 233);
+    font-size: 32px;
+    font-weight: 600;
+     
+}
