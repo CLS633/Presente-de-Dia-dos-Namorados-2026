@@ -53,6 +53,7 @@ link.addEventListener("click", function () {
   if (bloqueioCliques) return;
 
   corpo.style.backgroundImage = "url('/assets/Ceu estrelado.jpg')";
+  corpo.style.backgroundSize = "cover";
 
   contador++;
   paragrafo.innerHTML = contador;
