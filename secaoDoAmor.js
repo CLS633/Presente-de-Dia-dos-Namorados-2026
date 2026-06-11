@@ -13,7 +13,7 @@ musica.play();
 
 botao.addEventListener("click", function() {
 
-carta.innerHTML =  "Quando olho para trás e vejo que tudo acabou valendo muito a pena. A gente está construindo um namoro excepcional, daqueles em que a gente aprende a amar os detalhes um do outro. Eu amo quando você compartilha as suas aleatoriedades comigo, amo ver você sendo você mesma, e alegro-me em saber que, do seu jeito, o seu coração me escolheu como a sua maior prioridade. Aquele 'ataque de amor' que você passou a noite escrevendo para mim e cada presente artesanal carinhoso que você prepara me mostram que o nosso amor não precisa de regras ou padrões perfeitos para ser real. Ele é real na nossa relação, nas nossas conversas e na forma como a gente sempre escolhe caminhar na mesma página. <button id='botao2'>Continuar lendo</button>";
+carta.innerHTML =  "Quando olho para trás eu vejo que tudo acabou valendo muito a pena. A gente está construindo um namoro excepcional, daqueles em que a gente aprende a amar os detalhes um do outro. Eu amo quando você compartilha as suas aleatoriedades comigo, amo ver você sendo você mesma, e alegro-me em saber que, do seu jeito, o seu coração me escolheu como a sua maior prioridade. Aquele 'ataque de amor' que você passou a noite escrevendo para mim e cada presente artesanal carinhoso que você prepara me mostram que o nosso amor não precisa de regras ou padrões perfeitos para ser real. Ele é real na nossa relação, nas nossas conversas e na forma como a gente sempre escolhe caminhar na mesma página. <button id='botao2'>Continuar lendo</button>";
 
 const botao2 = document.getElementById("botao2");
 
