@@ -15,6 +15,7 @@ main {
 
 body {
     background-image: url(/assets/background\ pt1.jpeg);
+    background-size: cover;
  
 }
 
